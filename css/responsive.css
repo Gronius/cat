@@ -127,6 +127,7 @@
     right: 0px;
     z-index: 20;
     background-color: #80e12e;
+    background-color: #f6f6f6;
     height: auto;
     -webkit-transition: all 0.1s ease;
     -o-transition: all 0.1s ease;
